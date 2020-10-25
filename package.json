@@ -1,0 +1,21 @@
+{
+    "name": "mcraw-dark-theme",
+    "displayName": "McRaw_Dark_Theme",
+    "description": "Dark theme for my use",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "McRaw Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/McRaw Dark-color-theme.json"
+            }
+        ]
+    }
+}
